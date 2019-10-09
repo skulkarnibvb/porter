@@ -1,0 +1,27 @@
+{
+  "entityName": "<pojo_name>",
+  "columnsList": [
+    {
+      "pojo_attribute1": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute2": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute3": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute4": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute5": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute6": "column_number_in_xls"
+    },
+    {
+      "pojo_attribute7": "column_number_in_xls"
+    }
+  ]
+ 
+}

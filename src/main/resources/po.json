@@ -1,0 +1,25 @@
+{
+  "entityName": "com.acc.xlp.entity.PurchaseOrder",
+  "tableName" : "Employee",
+  "columnsList": [
+    {
+      "employeeId": "1"
+    },
+    {
+      "personId": "2"
+    },
+    {
+      "firstName": "Balak"
+    },
+    {
+      "lastName": "Chowbim"
+    },
+    {
+      "level": "5"
+    },
+    {
+      "wbs": "aeiou"
+    }
+  ]
+ 
+}
